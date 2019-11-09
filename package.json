@@ -1,5 +1,5 @@
 {
-  "name": "@prgressive-amber/amber-vue-cli",
+  "name": "@progressive-amber/amber-vue-cli",
   "version": "0.1.0",
   "description": "A development tool for the Amber with Vue.js recipe.",
   "main": "index.js",
