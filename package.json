@@ -1,0 +1,30 @@
+{
+  "name": "@prgressive-amber/amber-vue-cli",
+  "version": "0.1.0",
+  "description": "A development tool for the Amber with Vue.js recipe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progressive-amber/amber-vue-cli.git"
+  },
+  "keywords": [
+    "amber",
+    "amber-framework",
+    "amber-recipe",
+    "vue",
+    "vuejs"
+  ],
+  "author": "Sean Watters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seanwatters/amber-vue-cli/issues"
+  },
+  "homepage": "https://github.com/seanwatters/amber-vue-cli#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "write": "^2.0.0"
+  }
+}
