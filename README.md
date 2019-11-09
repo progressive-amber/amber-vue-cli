@@ -1,8 +1,11 @@
 <img src="https://camo.githubusercontent.com/5b54cc5a749519515e15846ac911b094fa762ee5/687474703a2f2f7365616e776174746572732e696f2f696d616765732f616d6265722d7675652e706e67" alt="amber-vue" data-canonical-src="http://seanwatters.io/images/amber-vue.png" height="200">
 
 <a href="https://amberframework.org/"><img src="https://img.shields.io/badge/using-amber_framework-orange.svg" ></a>
-<a href="https://github.com/seanwatters/amber-vue/"><img src="https://img.shields.io/badge/using-amber_vue-green.svg" ></a>
+<a href="https://github.com/progressive-amber/vue-recipe/"><img src="https://img.shields.io/badge/using-amber_vue-green.svg" ></a>
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" ></a>
+
+<a href="https://www.npmjs.com/package/@progressive-amber/amber-vue-cli"><img src="https://img.shields.io/badge/version-v0.1.0-yellow.svg" ></a>
+
 
 # Amber Vue.js CLI
 
