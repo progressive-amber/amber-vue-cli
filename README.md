@@ -2,14 +2,14 @@
 
 <a href="https://amberframework.org/"><img src="https://img.shields.io/badge/using-amber_framework-orange.svg" ></a>
 <a href="https://github.com/progressive-amber/vue-recipe/"><img src="https://img.shields.io/badge/using-amber_vue-green.svg" ></a>
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" ></a>
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-lightgreen.svg" ></a>
 
 <a href="https://www.npmjs.com/package/@progressive-amber/amber-vue-cli"><img src="https://img.shields.io/badge/version-v0.1.0-yellow.svg" ></a>
 
 
 # Amber Vue.js CLI
 
-This is a development tool for quickly scaffolding Amber apps using the [Amber Vue.js](https://github.com/seanwatters/amber-vue) recipe for the framework. 
+This is a development tool for quickly scaffolding Amber apps using the [Amber Vue.js](https://github.com/progressive-amber/amber-recipe) recipe for the framework. 
 
 ## Installation
 
