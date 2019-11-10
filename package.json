@@ -1,15 +1,12 @@
 {
   "name": "@progressive-amber/amber-vue-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A development tool for the Amber with Vue.js recipe.",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/progressive-amber/amber-vue-cli.git"
-  },
+  "repository": "https://github.com/progressive-amber/amber-vue-cli",
   "keywords": [
     "amber",
     "amber-framework",
